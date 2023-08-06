@@ -14,7 +14,7 @@ var swiper = new Swiper(".newSwiper", {
 var swiper = new Swiper(".productSwiper", {
   slidesPerView: "auto",
   freeMode: true,
-  slideToClickedSlide:true,
+  freeMOdeSticky: true,
   scrollbar: {
     el: ".swiper-scrollbar-horizontal",
     draggable: true,
