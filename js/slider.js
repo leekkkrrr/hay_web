@@ -22,5 +22,3 @@ var swiper = new Swiper(".productSwiper", {
   mousewheel: true,
 });
 
-
-
