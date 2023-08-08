@@ -1,12 +1,4 @@
 // scroll
-// $(window).scroll(function () {
-//   let Cscroll = $(this).scrollTop();
-//   $(".scroll").text(Cscroll);
-
-//   if (Cscroll >= $("section:nth-child(1)").offset().top - 120) {
-//     $(".best_rank ").addClass("show").siblings().removeClass("show");
-//   }
-// });
 
 function scrollHandler() {
   let Cscroll = $(window).scrollTop();
